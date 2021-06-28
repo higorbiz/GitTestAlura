@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         // comentário adicionado
-        //simulando bug
+        //simulando bug gdgdgdgddfgdf
     }
 
 
